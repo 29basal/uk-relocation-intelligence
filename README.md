@@ -1,43 +1,93 @@
-# 🇬🇧 UK Relocation Intelligence PlatformAI-powered UK relocation platform built with Python, Streamlit and Plotly. Compare cities, analyze living costs, job opportunities and quality of life across the United Kingdom.
 # 🇬🇧 UK Relocation Intelligence Platform
 
-AI-powered relocation and city analysis platform for the United Kingdom.
+AI-powered UK relocation platform built with Python, Streamlit, Pandas and Plotly.
 
-## Features
+Compare cities, analyze living costs, evaluate job opportunities and discover the best places to live across the United Kingdom.
 
-* 📊 Interactive Dashboard
-* 💰 Cost Calculator
-* 🏙️ Compare Cities
-* 🤖 AI Advisor
-* 🏆 UK City Rankings
-* 📈 Interactive Data Visualizations
+## 🚀 Live Demo
 
-## Technologies Used
+Coming Soon
 
-* Python
-* Streamlit
-* Pandas
-* Plotly
+---
 
-## Project Overview
+## 📊 Features
 
-UK Relocation Intelligence helps users compare UK cities based on:
+### 📈 Interactive Dashboard
+- UK city analytics
+- Job market insights
+- Quality of life analysis
+- Cost comparison charts
 
-* Living Costs
-* Job Opportunities
-* Quality of Life
-* Affordability
+### 💰 Cost Calculator
+- Estimate monthly living costs
+- Budget planning tools
+- City-based expense analysis
 
-The platform provides data-driven insights for students, professionals, and individuals planning to relocate within the United Kingdom.
+### 🏙️ Compare Cities
+- Compare multiple UK cities
+- Job opportunities
+- Quality of life scores
+- Living cost comparison
 
-## Developer
+### 🤖 AI Advisor
+- Smart city recommendations
+- Budget-based suggestions
+- Career-focused analysis
+
+### 🏆 City Rankings
+- Best cities for jobs
+- Most affordable cities
+- Quality of life rankings
+
+---
+
+## 🛠️ Technologies Used
+
+- Python
+- Streamlit
+- Pandas
+- Plotly
+
+---
+
+## 📂 Project Structure
+
+```text
+uk-relocation-intelligence/
+│
+├── app.py
+├── requirements.txt
+└── README.md
+```
+
+---
+
+## 📸 Screenshots
+
+Dashboard, Cost Calculator, AI Advisor, City Rankings and Compare Cities modules are included in the platform.
+
+---
+
+## 🎯 Purpose
+
+This project was developed to help students, professionals and remote workers identify the most suitable UK city based on:
+
+- Living costs
+- Career opportunities
+- Quality of life
+- Personal budget
+
+---
+
+## 👨‍💻 Developer
 
 **Ebubekir Basal**
 
-* Website: https://www.basalsoft.com
-* LinkedIn: https://www.linkedin.com/in/ebubekirbasal/
-* GitHub: https://github.com/29basal
+- GitHub: https://github.com/29basal
+- LinkedIn: https://www.linkedin.com/in/ebubekirbasal/
 
-## Live Demo
+---
 
-Streamlit Cloud Deployment
+## ⭐ Support
+
+If you like this project, consider giving it a star on GitHub.
